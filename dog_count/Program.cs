@@ -15,7 +15,6 @@ while (distance > 10)
     }
     else time = distance / (SecondFriendSpeed + DogSpeed);
     friend = 1;
- 
  distance = distance - (FirstFriendSpeed + SecondFriendSpeed) * time;
  count = count + 1;
 } 
