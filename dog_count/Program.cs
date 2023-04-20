@@ -20,5 +20,5 @@ while (distance > 10)
  count = count + 1;
 } 
 Console.Write("собака пробежала ");
-Console.WriteLine(count); 
-Console.WriteLine("раз");
+Console.Write(count); 
+Console.WriteLine(" раз(-a)");
